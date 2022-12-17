@@ -1,4 +1,4 @@
-### Node Express Server Project Template
+# Node Express Server Project Template
 
 This was inspired by the Next js api project structure. To create a new api route just create one file in the app/routes/api folder. Add some swagger documentation and you are good to go.
 
